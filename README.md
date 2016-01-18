@@ -8,7 +8,7 @@ bottle-toolbelt
 [![PyPi version](https://pypip.in/v/bottle-toolbelt/badge.png)](https://crate.io/packages/bottle-toolbelt/)
 [![PyPi downloads](https://pypip.in/d/bottle-toolbelt/badge.png)](https://crate.io/packages/bottle-toolbelt/)
 
-**Latest version: 0.0.1 (2016/01)**
+**Latest version: 0.0.2 (2016/01)**
 
 Utility methods to facilitate automation of devops tasks. Good to be used with Fabric or Invoke.
 

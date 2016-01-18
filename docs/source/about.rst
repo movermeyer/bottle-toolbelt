@@ -9,9 +9,9 @@ Change Log
 
 Date format: yyyy/mm/dd
 
-Version 0.0.1 - 2016/01
+Version 0.0.2 - 2016/01
 -------------------------------------------------------------------------------
-  * <http://pypi.python.org/pypi/bottle-toolbelt/0.0.1>
+  * <http://pypi.python.org/pypi/bottle-toolbelt/0.0.2>
   * [New]
   * [Update]
 
